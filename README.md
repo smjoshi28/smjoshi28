@@ -1,5 +1,3 @@
----
-
 # 💫 About Me
 
 Hi, I'm **Smit Joshi** 👋
@@ -73,20 +71,3 @@ Recently, I’ve focused on improving **cost efficiency and security** by implem
 ### ⚡ Fun Fact
 
 I once spent 3 hours debugging a CloudFront 403 error — it was a missing `"` in an S3 bucket policy. Since then, I treat JSON like production code.
-
----
-
-## Why this version works (so you understand, not just copy)
-
-* **No fluff** → every line signals skill or action
-* **Projects upfront** → recruiters care about proof, not claims
-* **Keywords aligned with jobs** → AWS, Terraform, CI/CD, security
-* **Focused stack** → no distractions like NumPy/Pandas
-* **Tone = “already doing the job”**
-
----
-
-If you want to go one step further (this is what top 5% candidates do), next move is:
-👉 Add **metrics** (even small ones like “reduced cost by ~20%”)
-
-That’s what turns this from *strong* → *interview magnet*.
