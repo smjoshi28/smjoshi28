@@ -1,6 +1,3 @@
-rate this out of 10 Alright—this is your **tight, recruiter-ready version (9/10+)**.
-It cuts fluff, adds proof, and positions you as someone who can already do the job.
-
 ---
 
 # 💫 About Me
